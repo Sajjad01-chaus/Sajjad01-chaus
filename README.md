@@ -1,7 +1,7 @@
 # Hi there, I'm Sajjad Chaus! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Backend+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Backend+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -61,10 +61,6 @@ I'm a **Computer Science (IoT) student** from Mumbai, passionate about building 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajjad01-chaus&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/Sajjad01-chaus/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajjad01-chaus&theme=tokyo-night&hide_border=true" />
