@@ -63,7 +63,7 @@ I'm a **Computer Science (IoT) student** from Mumbai, passionate about building 
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/Sajjad01-chaus/Sajjad01-chaus/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Sajjad01-chaus/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 📈 Activity Graph
