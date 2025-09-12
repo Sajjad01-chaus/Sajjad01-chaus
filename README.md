@@ -11,7 +11,6 @@ I'm a **Computer Science (IoT) student** from Mumbai, passionate about building 
 - 🔭 I'm currently working on **AI Agent-as-a-Service platforms** and **distributed monitoring systems**
 - 🌱 I'm learning **Advanced ML System Design** and **MLOps**
 - 📧 Reach me at: **chaussajjad@gmail.com**
-- 📱 Phone: **7498454293**
 
 ## 💼 Current Work
 
