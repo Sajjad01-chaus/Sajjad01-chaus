@@ -6,11 +6,10 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science (IoT) student** from Mumbai, passionate about building scalable AI systems and distributed architectures. Currently working as an **AI/ML Engineer** at EngageOS.ai, where I architect AI Agent-as-a-Service platforms handling 1,000+ concurrent requests.
+I'm a **Computer Science (IoT) student** from Mumbai, passionate about building scalable AI systems and distributed architectures. Currently working as an **AI/ML Engineer** at EngageOS.ai.
 
 - 🔭 I'm currently working on **AI Agent-as-a-Service platforms** and **distributed monitoring systems**
 - 🌱 I'm learning **Advanced ML System Design** and **MLOps**
-- 🎯 **CGPA:** 8.00/10
 - 📧 Reach me at: **chaussajjad@gmail.com**
 - 📱 Phone: **7498454293**
 
@@ -34,6 +33,8 @@ I'm a **Computer Science (IoT) student** from Mumbai, passionate about building 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Frontend 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Backend & Databases
@@ -52,36 +53,36 @@ I'm a **Computer Science (IoT) student** from Mumbai, passionate about building 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sajjad01-chaus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad01-chaus&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajjad01-chaus&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Sajjad01-chaus/Sajjad01-chaus/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajjad01-chaus&theme=tokyo-night&hide_border=true" />
 
 ## 🤝 Let's Connect!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-chaus-541b89258)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaussajjad@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sajjad01-chaus)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sajjad01-chaus&style=flat-square&color=blue" alt="Profile views" />
   
-  ⭐️ From [Sajjad Chaus](https://github.com/yourusername)
+  ⭐️ From [Sajjad Chaus](https://github.com/Sajjad01-chaus)
 </div>
