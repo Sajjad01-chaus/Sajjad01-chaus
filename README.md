@@ -61,8 +61,6 @@ I'm a **Computer Science (IoT) student** from Mumbai, passionate about building 
 </div>
 
 
-## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajjad01-chaus&theme=tokyo-night&hide_border=true" />
 
 ## 🤝 Let's Connect!
 
