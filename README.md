@@ -12,14 +12,6 @@ I'm a **Computer Science (IoT) student** from Mumbai, passionate about building 
 - 🌱 I'm learning **Advanced ML System Design** and **MLOps**
 - 📧 Reach me at: **chaussajjad@gmail.com**
 
-## 💼 Current Work
-
-**AI/ML Engineer @ EngageOS.ai**
-- Led development of AI Agent-as-a-Service platform
-- Architected scalable FastAPI + LangGraph backend 
-- Implemented high-performance RAG pipelines with with background processing
-- Redis for caching and celery for background tasks 
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
